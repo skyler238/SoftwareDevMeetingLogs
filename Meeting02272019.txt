@@ -1,0 +1,15 @@
+Attending:
+    Josh Biggio
+    Ben Lee
+    Kevin Lee
+    Matt Melby
+    Skyler Reynolds
+
+Discussed:
+    Next Check point:
+        Began work on first part of prompt for check in due on March 10.
+        Talked about the base of our application:
+          Login, register, enter information, and output.
+          Discussed design for pdf.
+          Begin with hard limit caps for info
+    Setting up Trello
