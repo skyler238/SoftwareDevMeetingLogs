@@ -1,0 +1,4 @@
+Talked about scaling and scope. 
+Spent time working on checkin #2.
+Talked about where to host space for data.
+Talked about actual coding and where to start.
