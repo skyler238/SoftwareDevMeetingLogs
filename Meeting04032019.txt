@@ -1,0 +1,14 @@
+Attendees: 
+    - Josh Biggio
+    - Ryan Fleury
+    - Benjamin Lee
+    - Kevin Lee
+    - Matt Melby
+    - Skyler Reynolds
+    
+Discussion:
+    - Thoughts regarding Milestone 5, (due April 14th) so pushed to next weeks meeting 
+      -- Document created; however, nothing put it
+    - Went over database 
+      -- Learned how to use Firebase
+    - Initialized databse in Firebase for Project
