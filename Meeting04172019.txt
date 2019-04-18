@@ -11,4 +11,5 @@ Discussion:
     - Started working on Heroku (Built App)
     - Prepared Presentation/Milestone 6 (Created Slides, but haven't inputted information yet)
     - Continued working on Homepage HTML
-    
+    - Discuss future work time given amount of time remaining
+        -- Project Due Date = Presentation Date [4/26]
