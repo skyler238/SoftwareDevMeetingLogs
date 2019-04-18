@@ -1,0 +1,14 @@
+Attendees: 
+    - Josh Biggio
+    - Ryan Fleury
+    - Benjamin Lee
+    - Kevin Lee
+    - Matt Melby
+    - Skyler Reynolds
+    
+Discussion:
+    - Change from Firebase to Heroku (due to ease and knowledge gained from recitaitons)
+    - Started working on Heroku (Built App)
+    - Prepared Presentation/Milestone 6 (Created Slides, but haven't inputted information yet)
+    - Continued working on Homepage HTML
+    
