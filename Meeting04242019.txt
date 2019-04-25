@@ -1,0 +1,14 @@
+Attendees: 
+    - Josh Biggio
+    - Ryan Fleury
+    - Benjamin Lee
+    - Kevin Lee
+    - Matt Melby
+    - Skyler Reynolds
+    
+Discussion:
+    - Continue work from yesterday's meeting/work session
+    - Was able to get Latex Output from HTML
+    - Begin working on Presentation
+    - Integrated Menu Bar with various pages
+    - Continue working on database (login)
