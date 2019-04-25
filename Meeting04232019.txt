@@ -1,0 +1,16 @@
+Attendees: 
+    - Josh Biggio
+    - Ryan Fleury
+    - Benjamin Lee
+    - Kevin Lee
+    - Matt Melby
+    - Skyler Reynolds
+    
+Discussion:
+    - Discuss what work is left over
+    - Discuss What everyone is currently working on (Ben - Front End User Interface, Matt & Skyler - Backend Database, Josh & Kevin - User input output to textfile (Resume Templates), Ryan - Interfacing Front and Backend)
+    - Database set up in SQL
+      - Plan next phase of transfering SQL database over to Heroku
+    - Converted Home page and Login Page from HTML to EJS
+    - Began developing code for User input (Resume Profile)
+    - Plan next work day
