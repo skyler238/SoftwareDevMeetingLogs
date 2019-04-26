@@ -1,0 +1,19 @@
+Attendees: 
+    - Josh Biggio (Arrived at 8:00PM)
+    - Ryan Fleury (Arrived at 8:00PM)
+    - Ben Lee (Arrived at 11:50 PM - Busy with Class)
+    - Kevin Lee (Arrived at 8:00PM)
+    - Matt Melby (Arrived at 8:00PM)
+    - Skyler Reynolds (Arrived at 8:00PM)
+    
+Discussion:
+    - Continue work from yesterday's meeting/work session
+      - Continued working on login 
+      - Updated webpages
+      - Menu fixed
+      - Modify profile to include multiple education and employment history
+      - Editted Resume template due to many dependencies and requiring User to download packages
+      - Output to latex file
+    - Finish up Presentation Slides
+      - Decide who will be presenting which portion of the presentation
+      
